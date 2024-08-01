@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fatil\\OneDrive\\Masa\u00FCst\u00FC\\staj1-projeleri\\STM32 ve Aray\u00FCzler\\StepMotorAray\u00FCz\u00FC\\STM32_StepMotor_Interface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44F997F9-9539-4944-AE00-62EADFAB16FF}|STM32_StepMotor_Interface\\STM32_StepMotor_Interface.csproj|c:\\users\\fatil\\onedrive\\masa\u00FCst\u00FC\\staj1-projeleri\\stm32 ve aray\u00FCzler\\stepmotoraray\u00FCz\u00FC\\stm32_stepmotor_interface\\stm32_stepmotor_interface\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F997F9-9539-4944-AE00-62EADFAB16FF}|STM32_StepMotor_Interface\\STM32_StepMotor_Interface.csproj|solutionrelative:stm32_stepmotor_interface\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F997F9-9539-4944-AE00-62EADFAB16FF}|STM32_StepMotor_Interface\\STM32_StepMotor_Interface.csproj|C:\\Users\\fatil\\OneDrive\\Masa\u00FCst\u00FC\\staj1-projeleri\\STM32 ve Aray\u00FCzler\\StepMotorAray\u00FCz\u00FC\\STM32_StepMotor_Interface\\stm32_stepmotor_interface\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44F997F9-9539-4944-AE00-62EADFAB16FF}|STM32_StepMotor_Interface\\STM32_StepMotor_Interface.csproj|solutionrelative:stm32_stepmotor_interface\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\fatil\\OneDrive\\Masa\u00FCst\u00FC\\staj1-projeleri\\STM32 ve Aray\u00FCzler\\StepMotorAray\u00FCz\u00FC\\STM32_StepMotor_Interface\\STM32_StepMotor_Interface\\Form1.cs",
+              "RelativeDocumentMoniker": "STM32_StepMotor_Interface\\Form1.cs",
+              "ToolTip": "C:\\Users\\fatil\\OneDrive\\Masa\u00FCst\u00FC\\staj1-projeleri\\STM32 ve Aray\u00FCzler\\StepMotorAray\u00FCz\u00FC\\STM32_StepMotor_Interface\\STM32_StepMotor_Interface\\Form1.cs",
+              "RelativeToolTip": "STM32_StepMotor_Interface\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T11:09:06.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\fatil\\OneDrive\\Masa\u00FCst\u00FC\\staj1-projeleri\\STM32 ve Aray\u00FCzler\\StepMotorAray\u00FCz\u00FC\\STM32_StepMotor_Interface\\STM32_StepMotor_Interface\\Form1.cs",
+              "RelativeDocumentMoniker": "STM32_StepMotor_Interface\\Form1.cs",
+              "ToolTip": "C:\\Users\\fatil\\source\\repos\\STM32_StepMotor_Interface\\STM32_StepMotor_Interface\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\STM32_StepMotor_Interface\\STM32_StepMotor_Interface\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T11:07:47.276Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
